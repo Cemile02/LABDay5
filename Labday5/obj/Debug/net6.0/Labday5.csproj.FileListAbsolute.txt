@@ -1,0 +1,15 @@
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\bin\Debug\net6.0\Labday5.exe
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\bin\Debug\net6.0\Labday5.deps.json
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\bin\Debug\net6.0\Labday5.runtimeconfig.json
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\bin\Debug\net6.0\Labday5.dll
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\bin\Debug\net6.0\Labday5.pdb
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.csproj.AssemblyReference.cache
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.AssemblyInfoInputs.cache
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.AssemblyInfo.cs
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.csproj.CoreCompileInputs.cache
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.dll
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\refint\Labday5.dll
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.pdb
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\Labday5.genruntimeconfig.cache
+C:\Users\Jamila.Ismayilzada\Desktop\Codes\Labday5\Labday5\obj\Debug\net6.0\ref\Labday5.dll
